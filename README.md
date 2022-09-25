@@ -1,7 +1,7 @@
 ### Oie! Eu sou a Luise Katherine, estudante de Técnico em Informática para web 👋
 
 - 📚 Estou cursando Técnico em Informática para web
-- ❤️‍🔥 Amo a parte de front-end
+- ❤️‍🔥 Apaixonada pelo front-end
 - ✏️ Graduanda em Letras - Inglês
 - 💡 Procuro uma oportunidade de estágio em desenvolvimento web
 - 🙃 Já fui profe de espanhol
