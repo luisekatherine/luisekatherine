@@ -2,9 +2,7 @@
 
 - 📚 Estou cursando Técnico em Informática para web
 - ✏️ Graduanda em Letras - Inglês
-- 💡 Procuro uma oportunidade de estágio em desenvolvimento web
 - 🙃 Já fui profe de espanhol e inglês
-- 👩‍💼 Trabalho na Unimed Encosta da Serra
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Luise-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
